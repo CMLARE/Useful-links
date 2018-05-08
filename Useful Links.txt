@@ -1,0 +1,5 @@
+https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0 - Sidath article
+https://www.ncei.noaa.gov/data/global-hourly/access/ - NOAA data
+https://www7.ncdc.noaa.gov/CDO/country - NOAA site
+http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCDC/.GCPS/.MONTHLY/.STATION/searches.html?bbox=bb%3A79.470%3A5.5983%3A82.093%3A10.0063%3Abb - NOAA data for SL
+http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCDC/.GCPS/.MONTHLY/.STATION/?bbox=bb%3A79.470%3A5.5983%3A82.093%3A10.0063%3Abb - NOAA data for SL
